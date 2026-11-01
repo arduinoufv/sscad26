@@ -9,8 +9,8 @@ Material de Apoio para os Trabalhos da Univ. Federal de Viçosa no SSCAD 2026
   * [Slides do Artigo](https://docs.google.com/presentation/d/1_lJg9GSfTg1EebRdaz0OPHew4uiI_fROfPeeSNGN_yw/edit?usp=sharing)
   * [Colab Indice do Material](https://colab.research.google.com/drive/1ZT2ITos9J-p-i2LKTQwywct6yD1MEqUd?usp=sharing)
 # Slides das Apresentações de Trabalho no SSCAD
-* [Slides - Explicabilidade para Kmeans com árvores de decisão em GPU]()
+* [Slides - Explicabilidade para Kmeans com árvores de decisão em GPU](https://drive.google.com/file/d/1lMnRk6h0WMQlVZra6h0tD-nnHSMrSimq/view?usp=sharing) e [artigo](https://drive.google.com/file/d/1ohciAizOI8BqTJ8mko-LjGzGVFHbOBG3/view?usp=sharing)
 * [Slides - A Hybrid GPU-CPU Framework for QCA Layout Synthesis via Parallel Simulated Annealing and Register-Level Bitboard Routing]()
-* [Slides- MultiDBSCAN: Exploração Paralela de Múltiplos Raios em GPU]()
+* [Slides- MultiDBSCAN: Exploração Paralela de Múltiplos Raios em GPU](https://drive.google.com/file/d/1JF8Di3uh_Yiaw19LgiAX1R7oKqrCc3Lc/view?usp=sharing) e [artigo](https://drive.google.com/file/d/1JvDw0AQY_R5knSZle6C47Ronxw99-Jtv/view?usp=sharing)
 
     
